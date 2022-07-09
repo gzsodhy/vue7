@@ -67,5 +67,6 @@ const submitForm = (formEl: FormInstance | undefined) => {
 }
 .submit-btn{
   width: 100%;
+  background-image: url("@/assets/logo.png");
 }
 </style>
